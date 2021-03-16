@@ -34,4 +34,5 @@ BOARD_SEPOLICY_DIRS += \
     device/xiaomi/raphael-sepolicy/vendor/xiaomi/thermald \
     device/xiaomi/raphael-sepolicy/vendor/xiaomi/usb \
     device/xiaomi/raphael-sepolicy/vendor/xiaomi/wireless \
-    device/xiaomi/raphael-sepolicy/vendor/xiaomi/wlan
+    device/xiaomi/raphael-sepolicy/vendor/xiaomi/wlan \
+    device/xiaomi/raphael-sepolicy/vendor/xiaomi/hal_health_default.te
