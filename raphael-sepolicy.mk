@@ -36,6 +36,7 @@ BOARD_SEPOLICY_DIRS += \
     device/xiaomi/raphael-sepolicy/vendor/xiaomi/radio \
     device/xiaomi/raphael-sepolicy/vendor/xiaomi/sensors \
     device/xiaomi/raphael-sepolicy/vendor/xiaomi/thermald \
+    device/xiaomi/raphael-sepolicy/vendor/xiaomi/touchfeature \
     device/xiaomi/raphael-sepolicy/vendor/xiaomi/usb \
 	device/xiaomi/raphael-sepolicy/vendor/xiaomi/vibrator \
     device/xiaomi/raphael-sepolicy/vendor/xiaomi/wireless \
